@@ -1,0 +1,13 @@
+# Core
+numpy
+opencv-python
+matplotlib
+imutils
+pillow
+
+# OCR / Deep learning (EasyOCR requires torch)
+easyocr
+
+# Torch (CPU by default). If you want GPU support, install the appropriate torch+cuda build from pytorch.org
+torch
+torchvision
